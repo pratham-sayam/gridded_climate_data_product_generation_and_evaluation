@@ -1,6 +1,4 @@
-# Mini Project: Geospatial Statistics (GNR 640) - Gridded Climate Data Product Generation and Evaluation
-
-## Saurabh Gupta - 22b4227
+# Geospatial Statistics - Gridded Climate Data Product Generation and Evaluation
 
 ## **Project Overview**
 This project focuses on leveraging station-based meteorological observations to generate and evaluate gridded climate data products, specifically daily precipitation. The primary goal is to apply geospatial interpolation techniques, perform rigorous statistical assessments by comparing with independent data sources (like satellite estimates), and evaluate the performance of different interpolation models. The geographical domain for this analysis is the United States of America (USA).
